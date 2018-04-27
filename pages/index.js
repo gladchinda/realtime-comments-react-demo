@@ -14,7 +14,7 @@ class IndexPage extends Component {
 
   render() {
     return (
-      <Layout pageTitle="Realtime Chat">
+      <Layout pageTitle="Realtime Comments">
         <main className="container-fluid position-absolute h-100 bg-white">
           <div className="row position-absolute w-100 h-100">
 
