@@ -60,7 +60,7 @@ Here is a run-down of the core technologies used in this project.
 
 1. [Next.js](https://learnnextjs.com/) - A framework for building server-side rendered(SSR) React applications with ease. It handles most of the challenges that come with building SSR React apps.
 
-2. [Pusher](https://pusher.com/) - Pusher is a technology for building apps with varying realtime needs like push notifications and pub/sub messaging. It is the engine behind the realtime ability of our data visualization app.
+2. [Pusher](https://pusher.com/) - Pusher is a technology for building apps with varying realtime needs like push notifications and pub/sub messaging. It is the engine behind the realtime ability of our comments widget.
 
 3. [Sentiment](https://github.com/thisandagain/sentiment) - Sentiment is a module that uses the [AFINN-165](http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=6010) wordlist and [Emoji Sentiment Ranking](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144296) to perform [sentiment analysis](http://en.wikipedia.org/wiki/Sentiment_analysis) on arbitrary blocks of input text.
 
